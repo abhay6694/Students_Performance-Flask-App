@@ -20,7 +20,7 @@ decorator==4.4.0
 defer==1.0.6
 defusedxml==0.6.0
 distro-info===0.18ubuntu0.18.04.1
-Django==2.2.5
+Django==2.2.8
 django-polls==0.1
 django-tastypie==0.14.2
 dnspython==1.16.0
