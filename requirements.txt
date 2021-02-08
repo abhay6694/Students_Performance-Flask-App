@@ -32,7 +32,7 @@ Flask-Compress==1.4.0
 guacamole==0.9.2
 gunicorn==19.9.0
 html5lib==0.999999999
-httplib2==0.9.2
+httplib2==0.19.0
 idna==2.8
 inflection==0.3.1
 ipykernel==5.1.2
